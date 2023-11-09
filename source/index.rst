@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to コードで動かす世界's documentation!
+Welcome to コードで動かす世界 documentation!
 ==============================================
 
 .. toctree::
